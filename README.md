@@ -24,6 +24,7 @@ Nowadays, IOT systems  collect an enormous amount of  sensory data every second.
         - input_1.txt
         - input_2.txt
         - input_3.txt
+    - READme.md
     - find_subsequence.py
     - requirements.txt
     - unittest.py
