@@ -31,7 +31,7 @@ Nowadays, IOT systems  collect an enormous amount of  sensory data every second.
 * Open the command line and run the following command. The run command requires a file path to be passed as an argument and an optional numeric argument.
     ```
     cd folder_name/Consecutive Subsequence
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
     python find_subsequence.py sensordata/input_1.txt 2
     ```
  * Your result would be displayed in the stdout in the command line
